@@ -10,14 +10,5 @@ Here is the index of all the projects implemented so far. Each project is contai
 
 | # | Project Name | Directory | Status | Roadmap.sh Link |
 |---|--------------|-----------|--------|-----------------|
-| 01 | Task Tracker CLI | [`/01-task-tracker`](./01-task-tracker) | ⏳ In Progress | [Link](https://roadmap.sh/projects/task-tracker) |
+| 01 | Greeting Builder | [`Greeting Builder`](./Greeting%20Builder) | ✅ Done | [[Link](https://roadmap.sh/projects/task-tracker)](https://roadmap.sh/projects/js-greeting-builder) |
 
-
----
-
-## ⚙️ How to Explore This Repo
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/roadmap-sh-js-projects.git](https://github.com/YOUR_USERNAME/roadmap-sh-js-projects.git)
-   cd roadmap-sh-js-projects
