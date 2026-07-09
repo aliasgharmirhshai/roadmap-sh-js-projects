@@ -15,5 +15,5 @@ Here is the index of all the projects implemented so far. Each project is contai
 | 03 | Number Checker | [`Number Checker`](./Number%20Checker) | ✅ Done | [https://roadmap.sh/projects/js-number-checker](https://roadmap.sh/projects/js-number-checker) |
 | 04 | String Formatter | [`String Formatter`](./String%20Formatter) | ✅ Done | [https://roadmap.sh/projects/js-string-formatter](https://roadmap.sh/projects/js-string-formatter) |
 | 05 | Price Calculator | [`Price Calculator`](./Price%20Calculator) | ✅ Done | [https://roadmap.sh/projects/js-price-calculator](https://roadmap.sh/projects/js-price-calculator) |
-
+| 06 | Cart Total Calculator | [`Cart Total Calculator`](./Cart%20Total%20Calculator) | ✅ Done | [https://roadmap.sh/projects/js-cart-total-calculator](https://roadmap.sh/projects/js-cart-total-calculator) |
 
