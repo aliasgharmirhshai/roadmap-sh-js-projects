@@ -12,5 +12,6 @@ Here is the index of all the projects implemented so far. Each project is contai
 |---|--------------|-----------|--------|-----------------|
 | 01 | Greeting Builder | [`Greeting Builder`](./Greeting%20Builder) | ✅ Done | [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/js-greeting-builder) |
 | 02 | Temperature Converter | [`Temperature Converter`](./Temperature%20Converter) | ✅ Done | [https://roadmap.sh/projects/js-temperature-converter](https://roadmap.sh/projects/js-temperature-converter) |
-| 03 | Number Checker | [`Number Checker`](./Number%20Checker) | ✅ Done | [https://roadmap.sh/projects/js-number-checker](hhttps://roadmap.sh/projects/js-number-checker) |
+| 03 | Number Checker | [`Number Checker`](./Number%20Checker) | ✅ Done | [https://roadmap.sh/projects/js-number-checker](https://roadmap.sh/projects/js-number-checker) |
+| 04 | String Formatter | [`String Formatter`](./String%20Formatter) | ✅ Done | [https://roadmap.sh/projects/js-string-formatter](https://roadmap.sh/projects/js-string-formatter) |
 
