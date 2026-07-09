@@ -10,5 +10,6 @@ Here is the index of all the projects implemented so far. Each project is contai
 
 | # | Project Name | Directory | Status | Roadmap.sh Link |
 |---|--------------|-----------|--------|-----------------|
-| 01 | Greeting Builder | [`Greeting Builder`](./Greeting%20Builder) | ✅ Done | [[Link](https://roadmap.sh/projects/task-tracker)](https://roadmap.sh/projects/js-greeting-builder) |
+| 01 | Greeting Builder | [`Greeting Builder`](./Greeting%20Builder) | ✅ Done | [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/js-greeting-builder) |
+| 02 | Temperature Converter | [`Temperature Converter`](./Temperature%20Converter) | ✅ Done | [https://roadmap.sh/projects/js-temperature-converter](https://roadmap.sh/projects/js-temperature-converter) |
 
